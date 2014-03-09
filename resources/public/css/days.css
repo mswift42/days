@@ -1,0 +1,15 @@
+body {
+    padding-top: 70px;
+    }
+
+.header {
+    width:50px;
+    margin:auto;
+    }
+
+.active {
+    padding-right:8px;
+    }
+.brand {
+    padding-right:4px;
+    }

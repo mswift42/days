@@ -1,0 +1,5 @@
+(ns days.db
+  (require '[clojure.string :as str])
+  (:use korma.db))
+
+
