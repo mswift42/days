@@ -1,6 +1,6 @@
 # days
 
-FIXME
+Do All Your Stuff - a dayplanner, implemented in Clojure - Compojure
 
 ## Prerequisites
 
@@ -16,4 +16,4 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2014 FIXME
+GPLv3
