@@ -31,3 +31,13 @@
   (html
    (header)
    [:h2.header "days"]))
+
+(defn about-html
+  "html for about-page."
+  []
+  (html
+   (header)
+   [:h2.header "About"]
+   [:br]
+   [:div.abouttext
+    [:p "Days, a dayplanner implemented with Compojure and Hiccup."]]))

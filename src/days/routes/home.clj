@@ -6,5 +6,10 @@
   (layout/common "Days"
         (layout/home-html)))
 
+(defn about []
+  (layout/common "About"
+                 (layout/about-html)))
+
 (defroutes home-routes
-  (GET "/" [] (home)))
+  (GET "/" [] (home))
+  (GET "/about" [] (about)))

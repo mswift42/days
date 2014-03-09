@@ -13,3 +13,8 @@ body {
 .brand {
     padding-right:4px;
     }
+
+div.abouttext {
+    width:400px;
+    margin:auto;
+    }
